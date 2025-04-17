@@ -34,7 +34,7 @@ The dataset contains:
 ![Line Chart](https://github.com/kiransethi150/E-commerce-data-analytics/blob/main/newplot.png?raw=true)
 
 ### Pie Chart - Revenue Share by Region
-![Revenue Share by Region](https://github.com/kiransethi150/E-commerce-data-analytics/blob/main/newplot3.png?raw=true)
+![Revenue Share by Region](https://github.com/kiransethi150/E-commerce-data-analytics/blob/main/newplot%203.png?raw=true)
 
 ### Bar Chart - Top Ten Products by Revenue
-![Top Ten Products by Revenue](https://github.com/kiransethi150/E-commerce-data-analytics/blob/main/newplot4.png?raw=true)
+![Top Ten Products by Revenue](https://github.com/kiransethi150/E-commerce-data-analytics/blob/main/newplot%204.png?raw=true)
