@@ -27,3 +27,14 @@ The dataset contains:
 1. Clone the repository
 2. Open the notebook using Jupyter Lab or Notebook
 3. Run all cells to view results and dashboards
+
+## Visualizations
+
+### Line Chart - Monthly Revenue Trend
+![Line Chart](https://github.com/kiransethi150/E-commerce-data-analytics/blob/main/newplot.png?raw=true)
+
+### Pie Chart - Revenue Share by Region
+![Revenue Share by Region](https://github.com/kiransethi150/E-commerce-data-analytics/blob/main/newplot3.png?raw=true)
+
+### Bar Chart - Top Ten Products by Revenue
+![Top Ten Products by Revenue](https://github.com/kiransethi150/E-commerce-data-analytics/blob/main/newplot4.png?raw=true)
